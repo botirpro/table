@@ -10,9 +10,9 @@ td{
     border: 1px solid black;
     text-align: center;
     justify-content: center;
-    padding: 20px;
+    padding:10px 25px;
 }
-th{padding: 20px;
+th{padding:10px 25`px;
     border: 1px solid black;
     text-align: center;
     justify-content: center;
